@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">App_blood</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="button1">Registration</string>
+    <string name="button2">Find Blood Donors Near Your Area</string>
+    <string name="imgdescrition">Description of the image is blood</string>
+    <string name="lblname">Name:</string>
+    <string name="lbl">BloodGroup:</string>    
+    <string name="lblaucity">City:</string>
+    <string name="lblaustate">State:</string>
+    <string name="lbllatitude">Latitude:</string>
+    <string name="lbllongitude">Longiutde:</string>
+    
+    
+</resources>
